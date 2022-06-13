@@ -82,3 +82,58 @@
   line-height: 26px;
   color: #21243d;
 }
+
+.posts-span {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #21243d;
+}
+
+.post-text1 {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #21243d;
+}
+
+.View-all-post {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+  color: #00a8cc;
+}
+
+.posts-headline {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 38px;
+  color: #21243d;
+}
+
+.posts-span {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #21243d;
+}
+
+.post-text2 {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #21243d;
+}
