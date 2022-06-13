@@ -46,3 +46,39 @@
   top: 210px;
   background: url(image.png);
 }
+
+.Recent-posts {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 60px;
+  display: flex;
+  align-items: flex-end;
+  color: #21243d;
+}
+
+.Posts {
+  position: absolute;
+  width: 1152px;
+  height: 396px;
+  left: 0px;
+  top: 595px;
+}
+
+.Post-headline {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 38px;
+  color: #21243d;
+}
+
+.posts-data {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #21243d;
+}
