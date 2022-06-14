@@ -22,6 +22,7 @@
 
 .intro-description {
   font-family: "Heebo";
+  font-family: "Heebo";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -39,6 +40,7 @@
 }
 
 .img-intro {
+  font-family: "Heebo";
   position: absolute;
   width: 243px;
   height: 243px;
@@ -59,6 +61,7 @@
 }
 
 .Posts {
+  font-family: "Heebo";
   position: absolute;
   width: 1152px;
   height: 396px;
@@ -67,6 +70,7 @@
 }
 
 .Post-headline {
+  font-family: "Heebo";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -144,5 +148,118 @@
   font-weight: 400;
   font-size: 22px;
   line-height: 60px;
+  color: #21243d;
+}
+
+.img-Dashboard {
+  position: absolute;
+  width: 246px;
+  height: 180px;
+  left: 157px;
+  top: 1092px;
+  background: url(image.png);
+  border-radius: 6px;
+}
+
+.section-works-headline {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 44px;
+  color: #21243d;
+}
+
+.span-Dashboard {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  color: #8695a4;
+}
+
+.works-description {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #21243d;
+}
+
+.img-works-Illustration {
+  position: absolute;
+  width: 246px;
+  height: 180px;
+  left: 168px;
+  top: 1318px;
+  background: url(image.png);
+  border-radius: 6px;
+}
+
+.section-works-headline {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 44px;
+  color: #21243d;
+}
+
+.works-Illustration {
+  position: absolute;
+  width: 207px;
+  height: 25px;
+  left: 432px;
+  top: 1376px;
+  background: #142850;
+  border-radius: 16px;
+}
+
+.works-description {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #21243d;
+}
+
+.img-Rectangle-34.png {
+  position: absolute;
+  width: 246px;
+  height: 184px;
+  left: 168px;
+  top: 1564px;
+  background: url(image.png);
+  border-radius: 6px;
+}
+
+.section-works-headline {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 44px;
+  color: #21243d;
+}
+
+.Typography-works {
+  position: absolute;
+  width: 207px;
+  height: 25px;
+  left: 432px;
+  top: 1621px;
+  background: #142850;
+  border-radius: 16px;
+}
+
+.works-description {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
   color: #21243d;
 }
