@@ -207,14 +207,13 @@
   color: #21243d;
 }
 
-.works-Illustration {
-  position: absolute;
-  width: 207px;
-  height: 25px;
-  left: 432px;
-  top: 1376px;
-  background: #142850;
-  border-radius: 16px;
+.span-works-Illustration {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 60px;
+  color: #ffffff;
 }
 
 .works-description {
@@ -245,14 +244,13 @@
   color: #21243d;
 }
 
-.Typography-works {
-  position: absolute;
-  width: 207px;
-  height: 25px;
-  left: 432px;
-  top: 1621px;
-  background: #142850;
-  border-radius: 16px;
+.span-works-Typography-2018 {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  color: #8695a4;
 }
 
 .works-description {
