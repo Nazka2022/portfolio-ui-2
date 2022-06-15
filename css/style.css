@@ -263,3 +263,48 @@
   line-height: 24px;
   color: #21243d;
 }
+
+.footer-link-socials-fb {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: calc(50% - 30px / 2 - 102px);
+  top: calc(50% - 30px / 2 - 25px);
+  background: #21243d;
+}
+
+.footer-socials-link-instagram {
+  position: absolute;
+  width: 15.46px;
+  height: 15.46px;
+  left: calc(50% - 15.46px / 2 - 37px);
+  top: calc(50% - 15.46px / 2 - 25px);
+  background: #21243d;
+}
+
+.footer-socials-link-twitter {
+  position: absolute;
+  left: 51.13%;
+  right: 45.67%;
+  top: 28.02%;
+  bottom: 55.49%;
+}
+
+.footer-socials-link-linkedin {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: calc(50% - 30px / 2 + 100px);
+  top: calc(50% - 30px / 2 - 25px);
+  background: #21243d;
+}
+
+.footer-copyright {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #21243d;
+}
