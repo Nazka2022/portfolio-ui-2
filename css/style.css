@@ -262,6 +262,10 @@
   color: #21243d;
 }
 
+.social-network{
+  list-style: none;
+}
+
 .footer-link-socials-fb {
   position: absolute;
   width: 30px;
